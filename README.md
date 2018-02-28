@@ -6,7 +6,7 @@ Bash customization assignment
 2. Modify prompt
 
  
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![prompt](https://github.com/gitelig/dotfiles/blob/master/bash_prompt.jpg)
 
 
 ## installation:
