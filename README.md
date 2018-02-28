@@ -12,4 +12,4 @@ Bash customization assignment
 
 
 2. Install dotfiles
-git clone 
+git clone https://github.com/gitelig/dotfiles.git
