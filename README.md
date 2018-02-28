@@ -13,5 +13,7 @@ Bash customization assignment
 1. Install cowsay   
 **sudo apt-get install cowsay**
 
+![cowsay](https://github.com/gitelig/dotfiles/blob/master/Cowsay.png)
+
 2. Install dotfiles
 > git clone https://github.com/gitelig/dotfiles.git
